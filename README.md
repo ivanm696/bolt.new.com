@@ -1,4 +1,4 @@
-ww.bolt.new@gmail.ccom
+www.bolt.new@gmail.ccom
 🔌 Примеры интеграции Bolt.new и WebContainer
 Полные подключения WebContainer к твоему Bolt.new
 
